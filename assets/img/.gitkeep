@@ -1,0 +1,20 @@
+# Image Assets
+
+This directory contains image assets for the Concha AI project.
+
+## Current Assets
+
+Add your assets here:
+- `logo.png` - App logo
+- `splashscreen.png` - Launch screen image
+- `screenshot-chat.png` - Chat interface screenshot for README
+- `screenshot-models.png` - Model download screenshot for README
+- `screenshot-settings.png` - Settings screenshot for README
+
+## Guidelines
+
+- Use PNG format for logos and screenshots
+- Recommended screenshot size: 1170x2532 (iPhone 14 Pro resolution)
+- Logo should be high resolution (at least 1024x1024)
+- Keep file sizes reasonable (compress images when possible)
+
